@@ -1,0 +1,22 @@
+{
+  "name": "gerpack-laravel-vue-itcss",
+  "version": "0.1.0",
+  "description": "Boilerplate Laravel-Vue-Itcss",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gersom/gerpack-laravel-vue-itcss.git"
+  },
+  "author": "Gersom Alaja <gersomalaja@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gersom/gerpack-laravel-vue-itcss/issues"
+  },
+  "homepage": "https://github.com/Gersom/gerpack-laravel-vue-itcss#readme"
+}
