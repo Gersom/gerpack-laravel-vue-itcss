@@ -9,6 +9,7 @@
 ```bash
 ├─ docs                           # documentation
 ├─ laravel                        # laravel files
+├─ public                         # Folder Public of laravel
 └─ webpack                        # webpack files
     ├─ src
     │    ├─ app                   # the application's container folder
