@@ -1,0 +1,76 @@
+/*------------------------------------*\
+  #Settings
+\*------------------------------------*/
+
+@import '~wocss-settings-breakpoints';
+@import '~wocss-settings-colors';
+@import '~wocss-settings-defaults';
+@import '~wocss-settings-global';
+@import '~wocss-settings-spaces';
+@import '~wocss-settings-typography';
+
+@import '1_settings/variables';
+
+
+
+
+
+/*------------------------------------*\
+  #Tools
+\*------------------------------------*/
+
+@import '~wocss-tools-bem-constructor';
+@import '~wocss-tools-breakpoints';
+@import '~wocss-tools-mq';
+@import '~wocss-tools-resets';
+
+
+
+
+
+/*------------------------------------*\
+  #Generic
+\*------------------------------------*/
+
+// @import "3_generic/example";
+
+
+
+
+
+/*------------------------------------*\
+  #Base
+\*------------------------------------*/
+
+// @import "4_base/example";
+
+
+
+
+
+/*------------------------------------*\
+  #Object
+\*------------------------------------*/
+
+// @import "5_objects/example";
+
+
+
+
+/*------------------------------------*\
+  #Componets
+\*------------------------------------*/
+
+@import "6_components/vue-presentation";
+
+
+
+
+
+
+/*------------------------------------*\
+  #Trumps
+\*------------------------------------*/
+
+@import '~wocss-trumps-utilities';
+// @import '7_trumps/example';
