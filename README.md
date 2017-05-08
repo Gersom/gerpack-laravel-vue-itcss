@@ -27,10 +27,7 @@
 
 
 
-<p style="text-align:right">
-  Developed by
-  <strong>
-    [Gersom](https://github.com/Gersom)
-  </strong><br />
+<p align="right">
+  Developed by <strong>[Gersom](https://github.com/Gersom)</strong> <br />
   License MIT &copy; 2017
 </p>
