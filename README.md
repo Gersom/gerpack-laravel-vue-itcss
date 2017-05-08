@@ -28,6 +28,6 @@
 
 
 <p align="right">
-  Developed by [Gersom](https://github.com/Gersom) <br />
+  Developed by <a href="https://github.com/Gersom">Gersom</a> <br />
   License MIT &copy; 2017
 </p>
