@@ -25,7 +25,10 @@ var compiler = webpack(webpackConfig)
 
 var devMiddleware = require('webpack-dev-middleware')(compiler, {
   publicPath: webpackConfig.output.publicPath,
-  quiet: true
+  quiet: true,
+  headers: {
+    'Access-Control-Allow-Origin': '*'
+  }
 })
 
 var hotMiddleware = require('webpack-hot-middleware')(compiler, {
