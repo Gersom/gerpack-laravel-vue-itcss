@@ -1,7 +1,7 @@
-import GerButton from 'components/defaults/GerButton'
-import GerLink from 'components/defaults/GerLink'
-import GerLoading from 'components/defaults/GerLoading'
-import GerUserConfig from 'components/defaults/GerUserConfig'
+import GerButton from 'components/GerButton'
+import GerLink from 'components/GerLink'
+import GerLoading from 'components/GerLoading'
+import GerUserConfig from 'components/GerUserConfig'
 
 export default function registerComponents (Vue) {
   Vue.component('ger-button', GerButton)

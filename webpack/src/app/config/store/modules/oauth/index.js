@@ -13,8 +13,8 @@
   const state = {
     path: `${window.PATH}/oauth/token`,
     client: {
-      id: window.CLIENT.id,
-      secret: window.CLIENT.secret
+      d: window.CLIENT ? window.CLIENT.id : 0,
+      secret: window.CLIENT ? window.CLIENT.secret : ''
     },
     token: lsTmp || tokenDefault
   }
